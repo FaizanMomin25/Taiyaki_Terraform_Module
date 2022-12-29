@@ -62,8 +62,8 @@ rds_port                    = 3306
 rds_backup_retention_period = 0
 
 //FOR S3 BUCKET
-  taiyaki_bucket      =      "taiyaki-web-app-log-bukcet"
-  taiyaki_block_public_acls = "true"
-  taiyaki_block_public_policy = "true"
-  taiyaki_ignore_public_acls = "true"
-  taiyaki_restrict_public_buckets = "true"
+taiyaki_bucket                  = "taiyaki-web-app-log-bukcet"
+taiyaki_block_public_acls       = "true"
+taiyaki_block_public_policy     = "true"
+taiyaki_ignore_public_acls      = "true"
+taiyaki_restrict_public_buckets = "true"
